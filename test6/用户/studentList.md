@@ -12,11 +12,11 @@
 备选事件流 | 
 
 ### 2. 业务流程（顺序图）
-![](../images/学生列表顺序图.png)
+![](../图片/studentLIst.png)
 
 ### 3. 接口调用
 - API接口调用
-    - 接口1：[getStudents](../impl/getStudents.md)
+    - 接口1：[student](../接口/student.md)
 
 ### 4. 算法描述
 无

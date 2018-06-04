@@ -17,7 +17,7 @@
 ### 3. 接口调用
  
 - API接口调用
-    - 接口1：[login](../impl/login.md)
+    - 接口1：[login](../接口/login.md)
 
 ### 4. 算法描述
 ![](../images/登录算法描述.png)

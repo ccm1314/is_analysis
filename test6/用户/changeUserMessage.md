@@ -17,10 +17,9 @@
 ### 3. 接口调用
  
 - API接口调用
-    - 接口1：[getStudentsInfo](../impl/getStudentInfo.md)
-    - 接口2：[setStudentsInfo](../impl/setStudentInfo.md)
-    - 接口3：[getTeachersInfo](../impl/getTeacherInfo.md)
-    - 接口4：[setTeachersInfo](../impl/setTeacherInfo.md)
+    - 接口1：[getStudentsInfo](../图片/studentInfo.md)
+    - 接口2：[getTeachersInfo](../图片/getTeacherInfo.md)
+    - 接口4：[setTeachersInfo](../图片/setTeacherInfo.md)
 
 ### 4. 算法描述
 无

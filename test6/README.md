@@ -26,13 +26,12 @@
 - ### [参见数据库设计](数据库设计/DateBaseDesigin.md)
 
 ## 5.用例及界面详细设计
-- ### [“学生列表”用例](用户/StudentList.md)
+- ### [“学生列表”用例](用户/studentList.md)
 - ### [“老师列表”用例](用户/teacherList.md)
 - ### [“学期列表”用例](用户/termList.md)
 - ### [“查看成绩”用例](用户/grade.md)
 - ### [“查看学生信息”用例](用户/studentView.md)
 - ### [“修改学生信息”用例](用户/changeUserMessage.md)
-- ### [“查看老师信息”用例](用户/userView.md)
 - ### [“修改密码”用例](用户/changePassword.md)
 - ### [“登录”用例](用户/login.md)
 - ### [“登出”用例](用户/logOut.md)

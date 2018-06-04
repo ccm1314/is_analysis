@@ -15,8 +15,7 @@
 ![](../images/学期列表顺序图.png)
 
 ### 3. 接口调用
-- API接口调用
-    - 接口1：[getTerms](../impl/getTerms.md)
+- 
 
 ### 4. 算法描述
 无

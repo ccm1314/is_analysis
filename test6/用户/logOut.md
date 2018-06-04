@@ -16,7 +16,7 @@
 
 ### 3. 接口调用
 - API接口调用
-    - 接口1：[logout](../impl/loginout.md)
+    - 接口1：[logout](../接口/logout.md)
 
 ### 4. 算法描述
 无

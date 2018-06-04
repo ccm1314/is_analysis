@@ -15,7 +15,7 @@
 ![](../images/查看成绩顺序图.png)
 ### 3. 接口调用
 - API接口调用
-    - 接口1：[getGrades](../impl/getGrades.md)
+    - 接口1：[getGrades](../接口/getGrade.md)
 
 ### 4. 算法描述
 

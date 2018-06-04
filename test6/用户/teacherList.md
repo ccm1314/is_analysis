@@ -14,8 +14,7 @@
 ### 2. 业务流程（顺序图）
 ![](../images/老师列表顺序图.png)
 ### 3. 接口调用
-- API接口调用
-    - 接口1：[getTeachers](../impl/getTeachers.md)
+ 
 
 ### 4. 算法描述
 无
