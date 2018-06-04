@@ -30,7 +30,6 @@
 - ### [“老师列表”用例](用户/teacherList.md)
 - ### [“学期列表”用例](用户/termList.md)
 - ### [“查看成绩”用例](用户/grade.md)
-- ### [“查看学生信息”用例](用户/studentView.md)
 - ### [“修改学生信息”用例](用户/changeUserMessage.md)
 - ### [“修改密码”用例](用户/changePassword.md)
 - ### [“登录”用例](用户/login.md)
