@@ -31,8 +31,8 @@
 - ### [“学生列表”用例](用户/studentList.md),[界面](https://ccm1314.github.io/is_analysis/test6/界面/studentlist.html)
 - ### [“老师列表”用例](用户/teacherList.md),[界面](https://ccm1314.github.io/is_analysis/test6/界面/teacherlist.html)
 - ### [“学期列表”用例](用户/termList.md),[界面](https://ccm1314.github.io/is_analysis/test6/界面/termlist.html)
-- ### [“查看成绩”用例](用户/grade.md),[界面](https://ccm1314.github.io/is_analysis/test6/界面/Grade.html)
-- ### [“修改学生信息”用例](用户/changeUserMessage.md),[界面](https://ccm1314.github.io/is_analysis/test6/界面/updatestudentinfo.html)
+- ### [“查看成绩”用例](用户/grade.md),[界面](https://ccm1314.github.io/is_analysis/test6/界面/grade.html)
+- ### [“修改学生信息”用例](用户/changeUserMessage.md),[界面](https://ccm1314.github.io/is_analysis/test6/界面/upadtestudentinfo.html)
 - ### [“修改密码”用例](用户/changePassword.md),[界面](https://ccm1314.github.io/is_analysis/界面/updatepassword.html)
  
  
